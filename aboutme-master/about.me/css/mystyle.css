@@ -5,9 +5,8 @@
     }
 
     p {
-        color: slateblue;
+        color: blue;
         text-align: justify;
-        text-indent: 20px;
     }
 
     .grey-copy{
@@ -30,12 +29,11 @@
         font-family: 'Roboto Condensed', sans-serif;
     }
 
-    h1{
-        text-align: center;
-        color: navy;
-    }
+        h1{
+            text-align: center;
+        }
 
-    figcaption{
+    figcaption {
         text-align: center;
     }
 
@@ -48,7 +46,6 @@
 
     ul >li{
         display: inline;
-        text-align: center;
-        margin: 0 20px 0 38px;
-        width:300px;
+        margin: 0 10px 0 43px;
+        width: 300px;
     }
